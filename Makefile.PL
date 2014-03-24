@@ -10,5 +10,5 @@ WriteMakefile(
                          }, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Asterisk/Store/Queue/Member.pm', # retrieve abstract from module
-       AUTHOR         => 'Derek Carter <goozbach@neverblock.com>') : ()),
+       AUTHOR         => 'Derek Carter derek@goozbach.com') : ()),
 );

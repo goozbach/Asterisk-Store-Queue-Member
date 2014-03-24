@@ -23,7 +23,7 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2007 by Derek Carter
+Copyright (C) 2007 by Derek Carter <derek@goozbach.com>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.8 or,
@@ -32,5 +32,7 @@ at your option, any later version of Perl 5 you may have available.
 BUGS
 
 There aren't any of course. :)
-But if you find any undocumented "features" shoot me an email:
-          goozbach@neverblock.com
+But if you find any undocumented "features" add an issue here:
+
+https://github.com/goozbach/Asterisk-Store-Queue
+          

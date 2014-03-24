@@ -255,7 +255,7 @@ To be used with:
 
 =head1 AUTHOR
 
-Derek Carter, E<lt>goozbach@neverblock.com<gt>
+Derek Carter, E<derek@goozbach.com>
 
 =head1 COPYRIGHT AND LICENSE
 
